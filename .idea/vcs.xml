@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SDK/external/micro-ecc/micro-ecc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tmk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tmk/tmk_core/protocol/lufa/lufa-abcminiuser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/Arduino_Makefile_master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/RTClib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/xmem2" vcs="Git" />
+  </component>
+</project>

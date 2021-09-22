@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c1030fe-d306-434b-8987-d1dd7905fcc9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v3/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v3/common/common.mk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v3/common/config.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v3/common/keymap_common.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v3/common/keymap_plain.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v3/common/user_evt.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v3/rev_g/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v4/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/common.mk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/config.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/config.rev_g.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/keymap_common.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/keymap_plain.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/user_evt.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v4/rev_g/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmk" beforeDir="false" afterPath="$PROJECT_DIR$/tmk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/00index_e.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/00index_e.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/f1.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/f1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/f2.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/f2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/f3.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/f3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/f4.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/f4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/f5.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/f5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/f6.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/f6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/layers.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/layers.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/layers3.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/layers3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/modules.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/modules.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/rwtest.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/rwtest.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/rwtest2.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/rwtest2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/rwtest3.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/rwtest3.png" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/Makefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/keyboard/hhkb-ble-v4/Makefile" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1792" />
+    <option name="height" value="1020" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="nrf52-keyboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nrf52-keyboard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="nrf52-keyboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nrf52-keyboard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="keyboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nrf52-keyboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nrf52-keyboard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="keyboard" type="462c0819:PsiDirectoryNode" />
+              <item name="hhkb-ble-v4" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/android_sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/keyboard" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/keyboard" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c1030fe-d306-434b-8987-d1dd7905fcc9" name="Default Changelist" comment="" />
+      <created>1632287046325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632287046325</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1792" height="1020" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3297143" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="make" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v3/rev_g/Makefile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v3/common/config.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3366">
+          <caret line="153" selection-end-line="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>nrf52-keyboard</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8.0_241</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
