@@ -2,39 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c1030fe-d306-434b-8987-d1dd7905fcc9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v3/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v3/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v3/common/common.mk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v3/common/config.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v3/common/keymap_common.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v3/common/keymap_plain.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v3/common/user_evt.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v3/rev_g/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v4/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v4/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/common.mk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/config.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/config.rev_g.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/keymap_common.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/keymap_plain.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/user_evt.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v4/rev_g/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmk" beforeDir="false" afterPath="$PROJECT_DIR$/tmk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/00index_e.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/00index_e.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/f1.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/f1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/f2.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/f2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/f3.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/f3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/f4.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/f4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/f5.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/f5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/f6.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/f6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/layers.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/layers.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/layers3.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/layers3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/modules.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/modules.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/rwtest.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/rwtest.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/rwtest2.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/rwtest2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/rwtest3.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmk/tmk_core/protocol/usb_hid/USB_Host_Shield_2.0-tmk/examples/testusbhostFAT/generic_storage/FAT/FatFS/doc/img/rwtest3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/hhkb-ble-v4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v4/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -55,10 +24,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/Makefile">
+        <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            <state relative-caret-position="806">
+              <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -68,11 +37,14 @@
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/keyboard/hhkb-ble-v4/Makefile" />
+        <option value="$PROJECT_DIR$/keyboard/hhkb-ble-v3/README.md" />
+        <option value="$PROJECT_DIR$/keyboard/hhkb-ble-v4/README.md" />
       </list>
     </option>
   </component>
@@ -115,6 +87,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/android_sdk" />
@@ -152,6 +125,14 @@
       <option name="presentableId" value="Default" />
       <updated>1632287046325</updated>
     </task>
+    <task id="LOCAL-00001" summary="增加HHKB-V3 V4">
+      <created>1632287226597</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632287226597</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -178,10 +159,11 @@
       <window_info anchor="right" id="Palette&#9;" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="增加HHKB-V3 V4" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加HHKB-V3 V4" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v3/rev_g/Makefile">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v3/common/config.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3366">
@@ -189,10 +171,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v3/rev_g/Makefile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v3/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard/lot60-ble/rev_f/Makefile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard/lot60-ble/rev_g/Makefile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard/lot60-ble/rev_h/Makefile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/Makefile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        <state relative-caret-position="352">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/config.rev_g.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v3/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
         </state>
       </provider>
     </entry>
