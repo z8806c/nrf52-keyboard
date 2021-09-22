@@ -66,8 +66,6 @@ EventRecorderStub.scvd
 # uv output
 *.lnp
 *.build_log.htm
-*.HEX
-*.hex
 
 
 # Build Files
