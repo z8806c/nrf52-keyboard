@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c1030fe-d306-434b-8987-d1dd7905fcc9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool/lkb_configurator_setup_1.0.2.0.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool/wch_nrf_burner_setup_1.2.1.1.exe" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -68,11 +69,6 @@
             <path>
               <item name="nrf52-keyboard" type="b2602c69:ProjectViewProjectNode" />
               <item name="nrf52-keyboard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="nrf52-keyboard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nrf52-keyboard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tool" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -178,14 +174,21 @@
       <option name="project" value="LOCAL" />
       <updated>1632318331752</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="增加本地改键工具">
+      <created>1632320769420</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1632320769420</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1792" height="1024" extended-state="6" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.3822857" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3822857" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
@@ -196,7 +199,7 @@
       <window_info anchor="bottom" id="Find" weight="0.32893288" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.2579583" />
       <window_info anchor="bottom" id="TODO" order="1" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.1650165" />
+      <window_info anchor="bottom" id="Terminal" order="2" visible="true" weight="0.1650165" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Gradle" order="1" />
