@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c1030fe-d306-434b-8987-d1dd7905fcc9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/tool/lkb_configurator_setup_1.0.2.0.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tool/wch_nrf_burner_setup_1.2.1.1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/common.mk" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/common.mk" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -22,13 +22,43 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/user_evt.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="759">
+              <caret line="82" column="16" lean-forward="true" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/keyboard/gt-ble60/e/rules.mk">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="32" selection-start-line="8" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/common.mk">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>多设备</find>
       <find>0x0003</find>
       <find>hex</find>
+      <find>print_battery_percentage</find>
+      <find>MOUSEKEY_ENABLE</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -43,16 +73,16 @@
         <option value="$PROJECT_DIR$/keyboard/hhkb-ble-v3/README.md" />
         <option value="$PROJECT_DIR$/keyboard/hhkb-ble-v4/README.md" />
         <option value="$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/config.rev_g.h" />
-        <option value="$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/common.mk" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/common.mk" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="677" />
-    <option name="y" value="318" />
+    <option name="x" value="780" />
+    <option name="y" value="23" />
     <option name="width" value="1792" />
-    <option name="height" value="1024" />
+    <option name="height" value="1020" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -63,6 +93,7 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -70,12 +101,49 @@
               <item name="nrf52-keyboard" type="b2602c69:ProjectViewProjectNode" />
               <item name="nrf52-keyboard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="nrf52-keyboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nrf52-keyboard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="keyboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nrf52-keyboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nrf52-keyboard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="keyboard" type="462c0819:PsiDirectoryNode" />
+              <item name="gt-ble60" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nrf52-keyboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nrf52-keyboard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="keyboard" type="462c0819:PsiDirectoryNode" />
+              <item name="gt-ble60" type="462c0819:PsiDirectoryNode" />
+              <item name="e" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nrf52-keyboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nrf52-keyboard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="keyboard" type="462c0819:PsiDirectoryNode" />
+              <item name="hhkb-ble-v4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nrf52-keyboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nrf52-keyboard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="keyboard" type="462c0819:PsiDirectoryNode" />
+              <item name="hhkb-ble-v4" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nrf52-keyboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nrf52-keyboard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="keyboard" type="462c0819:PsiDirectoryNode" />
+              <item name="hhkb-ble-v4" type="462c0819:PsiDirectoryNode" />
+              <item name="rev_g" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,14 +249,22 @@
       <option name="project" value="LOCAL" />
       <updated>1632320769420</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="增加本地改键工具">
+      <created>1632358566304</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1632358566304</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1792" height="1024" extended-state="6" />
+    <frame x="0" y="23" width="1792" height="1020" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3822857" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20057143" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
@@ -196,17 +272,38 @@
       <window_info id="Resources Explorer" order="6" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Favorites" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Find" weight="0.32893288" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.2579583" />
       <window_info anchor="bottom" id="TODO" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" visible="true" weight="0.1650165" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.16407983" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32893288" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Gradle" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
       <window_info anchor="right" id="make" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18971428" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Resources Explorer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.2579583" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" visible="true" weight="0.16407983" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32893288" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="make" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加HHKB-V3 V4" />
@@ -259,13 +356,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/main/src/keyboard/keyboard_command.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1588">
-          <caret line="271" column="1" lean-forward="true" selection-start-line="271" selection-start-column="1" selection-end-line="271" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/main/src/keyboard/keyboard_command.h">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -297,35 +387,6 @@
         <state relative-caret-position="66">
           <caret line="3" column="25" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="25" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/user_evt.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2907" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/config.rev_g.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/config.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="93" column="13" selection-start-line="93" selection-start-column="13" selection-end-line="93" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/keymap_plain.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-573" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/keymap_common.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-983" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/README.md">
@@ -378,35 +439,12 @@
     <entry file="file://$PROJECT_DIR$/keyboard/gt-ble60/d/README.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/_build/nrf52_kbd_sign_with_sd.hex">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/_build/nrf52_bootloader.hex">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-31681" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/_build/nrf52_sign_all.hex">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-313149" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/common.mk">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/hex/s.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/hex/s.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/hex/Makefile">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/_build/nrf52_kbd_sign_with_sd.hex" />
+    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/_build/nrf52_bootloader.hex" />
+    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/_build/nrf52_sign_all.hex" />
+    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/hex/s.cpp" />
+    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/hex/s.h" />
+    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/hex/Makefile" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -419,6 +457,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docker/post.sh">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/main/src/ble/ble_bas_service.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="140" column="23" selection-start-line="140" selection-start-column="23" selection-end-line="140" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/main/src/keyboard/keyboard_command.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="252" column="32" selection-start-line="252" selection-start-column="8" selection-end-line="252" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/main/src/keyboard/action_macro_extend.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/keymap_plain.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/keymap_common.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-985" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/config.rev_g.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/config.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1852">
+          <caret line="93" column="13" selection-start-line="93" selection-start-column="13" selection-end-line="93" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/user_evt.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="82" column="16" lean-forward="true" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard/gt-ble60/e/rules.mk">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="32" selection-start-line="8" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard/hhkb-ble-v4/common/common.mk">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
