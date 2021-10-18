@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c1030fe-d306-434b-8987-d1dd7905fcc9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tool/HHKB-个人习惯.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tool/HHKB_V3/ch554.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tool/HHKB_V3/nrf52_bootloader.hex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tool/HHKB_V3/nrf52_kbd_sign_with_sd.hex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tool/HHKB_V4/ch554.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tool/HHKB_V4/nrf52_bootloader.hex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tool/HHKB_V4/nrf52_kbd_sign_with_sd.hex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tool/HHKB原版配列.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tool/WCHISPTool_Setup.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tool/lkb_configurator_setup_1.0.2.0.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tool/wch_nrf_burner_setup_1.2.1.1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9c1030fe-d306-434b-8987-d1dd7905fcc9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,7 +19,7 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -68,9 +55,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1792" />
-    <option name="height" value="1018" />
+    <option name="x" value="66" />
+    <option name="y" value="64" />
+    <option name="width" value="1726" />
+    <option name="height" value="979" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -80,8 +68,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -89,16 +75,13 @@
               <item name="nrf52-keyboard" type="b2602c69:ProjectViewProjectNode" />
               <item name="nrf52-keyboard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
-            <path>
-              <item name="nrf52-keyboard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nrf52-keyboard" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tool" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -225,14 +208,56 @@
       <option name="project" value="LOCAL" />
       <updated>1634465166011</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="增加Tool">
+      <created>1634523724886</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1634523724886</updated>
+    </task>
+    <task id="LOCAL-00013" summary="增加Tool">
+      <created>1634527045369</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1634527045369</updated>
+    </task>
+    <task id="LOCAL-00014" summary="增加Tool">
+      <created>1634528452397</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1634528452397</updated>
+    </task>
+    <task id="LOCAL-00015" summary="增加Tool">
+      <created>1634529678261</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1634529678261</updated>
+    </task>
+    <task id="LOCAL-00016" summary="增加Tool">
+      <created>1634529784612</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1634529784612</updated>
+    </task>
+    <task id="LOCAL-00017" summary="增加Tool">
+      <created>1634530646387</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1634530646387</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="577" y="213" width="1792" height="1020" extended-state="0" />
+    <frame x="162" y="79" width="1792" height="1020" extended-state="0" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20742857" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.20971428" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
@@ -240,10 +265,10 @@
       <window_info id="Resources Explorer" order="6" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Favorites" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.2579583" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="0" sideWeight="0.49885714" visible="true" weight="0.5116022" />
       <window_info anchor="bottom" id="TODO" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" weight="0.16407983" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50114286" side_tool="true" visible="true" weight="0.5116022" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.32893288" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Gradle" order="1" />
@@ -251,6 +276,42 @@
       <window_info anchor="right" id="make" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
     </layout>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加HHKB-V3 V4" />
@@ -262,15 +323,10 @@
     <MESSAGE value="增加本地改键工具" />
     <MESSAGE value="增加鼠标键功能" />
     <MESSAGE value="增加Hypertoxic键盘" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加Hypertoxic键盘" />
+    <MESSAGE value="增加Tool" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加Tool" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/keyboard/lot60-ble/rev_f/Makefile">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keyboard/lot60-ble/rev_g/Makefile">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/keyboard/lot60-ble/rev_h/Makefile">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -510,6 +566,14 @@
         <state relative-caret-position="330">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/gradle.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12689" />
       </provider>
     </entry>
   </component>
