@@ -21,10 +21,10 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 const uint8_t keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     /* 0: qwerty */
     KEYMAP_ANSI(
-        TAB, Q,   W,   E,   R,   T,   Y,   U,   I,   O,   P,   LBRC, \
-        LCTL,A,   S,   D,   F,   G,   H,   J,   K,   L,   SCLN,QUOT, \
-        LSFT,Z,   X,   C,   V,   B,   N,   M,   COMM,DOT, SLSH, FN0, \
-        TRNS,LALT,LGUI,          SPC,                GRV, RGUI,RALT),
+        TAB,  Q,   W,   E,   R,   T,   Y,   U,   I,   O,   P,    LBRC, \
+        CAPS, A,   S,   D,   F,   G,   H,   J,   K,   L,   SCLN, QUOT, \
+        LSFT,      Z,   X,   C,   V,   B,   N,   M,   COMM, DOT, RSFT, \
+                  LCTL,LALT,     SPC, SPC, SPC,       RALT, RGUI),
     /* 1: Poker Fn */
     KEYMAP_ANSI(
         CAPS,TRNS,TRNS,TRNS,TRNS,TRNS,TRNS,TRNS,PSCR,SLCK,PAUS,UP, \
