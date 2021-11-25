@@ -81,9 +81,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="154" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="383" />
+    <option name="y" value="141" />
     <option name="width" value="1792" />
     <option name="height" value="1018" />
   </component>
@@ -139,7 +139,7 @@
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/android_sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/keyboard" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tool" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
