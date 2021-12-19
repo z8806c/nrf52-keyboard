@@ -11,8 +11,8 @@
 #define LED_STATUS_CHARGING 19
 #define LED_STATUS_USB 20
 
-#define UART_RXD 25
-#define UART_TXD 28
+#define UART_RXD 28
+#define UART_TXD 25
 
 #define BATTERY_ADC_PIN NRF_SAADC_INPUT_AIN0
 

@@ -22,15 +22,15 @@ const uint8_t keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     /* 0: qwerty */
     KEYMAP_ANSI(
         TAB, Q,   W,   E,   R,   T,   Y,   U,   I,   O,   P,   LBRC, \
-        LCTL,A,   S,   D,   F,   G,   H,   J,   K,   L,   SCLN,QUOT, \
-        LSFT,Z,   X,   C,   V,   B,   N,   M,   COMM,DOT, SLSH, FN0, \
-        TRNS,LALT,LGUI,          SPC,                GRV, RGUI,RALT),
+        CAPS,A,   S,   D,   F,   G,   H,   J,   K,   L,   SCLN,QUOT, \
+        LSFT,E,   Z,   X,   C,   V,   B,   N,   M,   COMM,DOT, SLSH, \
+        TAB, Q,   W,   E,   R,   T,   Y,   U,   I,   O,   P,   LBRC),
     /* 1: Poker Fn */
     KEYMAP_ANSI(
-        CAPS,TRNS,TRNS,TRNS,TRNS,TRNS,TRNS,TRNS,PSCR,SLCK,PAUS,UP, \
-        TRNS,VOLD,VOLU,MUTE,EJCT,TRNS,PAST,PSLS,HOME,PGUP,LEFT,RGHT, \
-        FN2,TRNS, FN3,TRNS,TRNS,TRNS,PPLS,PMNS,END,PGDN,DOWN,TRNS,\
-        TRNS,TRNS,TRNS,          TRNS,               DEL,TRNS,TRNS),
+        TAB, Q,   W,   E,   R,   T,   Y,   U,   I,   O,   P,   LBRC, \
+        CAPS,A,   S,   D,   F,   G,   H,   J,   K,   L,   SCLN,QUOT, \
+        LSFT,E,   Z,   X,   C,   V,   B,   N,   M,   COMM,DOT, SLSH, \
+        TAB, Q,   W,   E,   R,   T,   Y,   U,   I,   O,   P,   LBRC),
 };
 const action_t fn_actions[] = {
     ACTION_LAYER_MOMENTARY(1),  // 切层
